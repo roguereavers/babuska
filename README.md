@@ -1,4 +1,10 @@
 
 
 
-  *so* working pong game.
+  pong  but  for schizos
+
+    # Install
+    
+    - best to grab a  bottle of  vodka  before play
+
+
