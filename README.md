@@ -1,10 +1,10 @@
 
 
 
-  pong  but  for schizos
+  ### pong  but  for schizos
 
     # Install
     
-    - best to grab a  bottle of  vodka  before play
+    - best to grab a  bottle of vodka while playing 
 
 
